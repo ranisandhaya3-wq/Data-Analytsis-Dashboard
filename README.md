@@ -2,9 +2,7 @@
 ## Project Objective
 I created an interactive Coffee Shop Sales Dashboard in Excel to analyze sales trends, customer behavior, store performance, and top-selling products using data visualization and business insights.
 ## Data Used
-
-
-
+  https://github.com/ranisandhaya3-wq/Data-Analytsis-Dashboard/blob/main/Coffee%20Shop%20Sales.xlsx
 
 ## Tools Used
  * Microsoft Excel – Data analysis and dashboard creation
@@ -29,7 +27,7 @@ I created an interactive Coffee Shop Sales Dashboard in Excel to analyze sales t
  1. How do sales vary by day and hour?
 Ans- Sales were highest during morning hours, especially between 8 AM and 10 AM.
  2. Are there peak sales periods?
-Ans- Yes, the dashboard showed peak customer activity during morning periods.
+Ans- Yes, the dashboard showed peak customer activity in the morning.
 3. What is the total sales revenue?
 Ans- Total sales revenue recorded was approximately $698,812.
 4. How do sales vary across store locations?
