@@ -1,6 +1,10 @@
 # Data-Analytsis-Dashboard
 ## Project Objective
 I created an interactive Coffee Shop Sales Dashboard in Excel to analyze sales trends, customer behavior, store performance, and top-selling products using data visualization and business insights.
+## Data Used
+
+
+
 
 ## Tools Used
  * Microsoft Excel – Data analysis and dashboard creation
@@ -41,7 +45,19 @@ Ans- Coffee contributed the largest share of overall sales, followed by Tea and 
 
 <img width="1788" height="838" alt="Screenshot 2026-06-29 114742" src="https://github.com/user-attachments/assets/ff327fbf-3afb-47d8-a306-9dbef2d70af9" />
 
+## Project Insights
 
+* Sales activity was highest during morning hours, indicating strong customer demand during peak coffee hours.
+* Coffee contributed the largest share of overall sales compared to other product categories.
+* Sales performance varied across store locations, with some stores generating higher revenue and customer footfall.
+* A few products consistently performed better and contributed significantly to total sales.
+* Customer spending patterns showed stable average order values across the selected period.
+* Interactive dashboard visualization made it easier to identify trends, compare performance, and support business decision-making.
+* The project demonstrated how Excel can be used to convert raw transactional data into actionable business insights.
+
+## Conclusion
+
+This project helped me improve my skills in Excel, data analysis, dashboard creation, and business analytics. Through this analysis, I gained experience in transforming raw data into interactive visual reports and generating insights that support data-driven decisions.
 
 
 
